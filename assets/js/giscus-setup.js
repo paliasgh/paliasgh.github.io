@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "paliasgh/HRI_learning_circle",
+    "data-repo": "paliasgh/Website",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
