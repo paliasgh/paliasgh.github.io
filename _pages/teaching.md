@@ -6,7 +6,7 @@ description:
 nav: true
 nav_order: 6
 ---
-Informal gatherings of ASBLab member to discuss Human-Robot Interaction (HRI) fundamentals 🤖🧑. Topics are organized based on [**Human-Robot Human-Robot Interaction – An Introduction**]([https://www.human-robot-interaction.org/) textbook by Christoph Bartneck, Tony Belpaeme, Friederike Eyssel, Takayuki Kanda, Merel Keijsers, Selma Šabanović.
+Informal gatherings of ASBLab member to discuss Human-Robot Interaction (HRI) fundamentals 🤖🧑. Topics are organized based on [**Human-Robot Human-Robot Interaction – An Introduction, 2nd Edition**](https://www.human-robot-interaction.org/) textbook by Christoph Bartneck, Tony Belpaeme, Friederike Eyssel, Takayuki Kanda, Merel Keijsers, Selma Šabanović.
 
 # 1: Introduction to HRI and Social Robotics 
 
