@@ -30,9 +30,9 @@ Informal gatherings of ASBLab member to discuss Human-Robot Interaction (HRI) fu
   [https://www.human-robot-interaction.org/download/201/?tmstv=1761321526](https://www.human-robot-interaction.org/download/201/?tmstv=1761321526)
 
 **Additional Sources:**
-- Socially intelligent robots: Dimensions of human–robot interaction  
+- Socially intelligent robots: Dimensions of human–robot interaction, by Kerstin Dautenhahn\\
   [https://royalsocietypublishing.org/doi/10.1098/rstb.2006.2004](https://royalsocietypublishing.org/doi/10.1098/rstb.2006.2004)
-- *Social Robotics (Chapter 72), Springer Handbook of Robotics*  
+- Social Robotics (Chapter 72), Springer Handbook of Robotics, by Breazeal et al.\\
   [https://link.springer.com/book/10.1007/978-3-540-30301-5](https://link.springer.com/book/10.1007/978-3-540-30301-5)
 
 
