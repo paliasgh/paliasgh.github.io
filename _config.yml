@@ -180,7 +180,6 @@ exclude:
   - _pages/cv.md
   - _pages/profiles.md
   - _pages/dropdown.md
-  - _pages/about.md
   - bin/
   - CONTRIBUTING.md
   - CUSTOMIZE.md
