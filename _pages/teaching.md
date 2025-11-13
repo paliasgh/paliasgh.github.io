@@ -10,7 +10,7 @@ Informal gatherings of ASBLab member to discuss Human-Robot Interaction (HRI) fu
 
 # 1: Introduction to HRI and Social Robotics 
 
-**Meeting information: TBD**
+**Meeting information: Tuesday, Nov. 18th, 1:30 pm - 3 pm, HA411**
 
 **Topics:**
 - Why we study HRI
