@@ -34,6 +34,9 @@ Informal gatherings of ASBLab member to discuss Human-Robot Interaction (HRI) fu
   [https://royalsocietypublishing.org/doi/10.1098/rstb.2006.2004](https://royalsocietypublishing.org/doi/10.1098/rstb.2006.2004)
 - Social Robotics (Chapter 72), Springer Handbook of Robotics, by Cynthia Breazeal et al.\\
   [https://link.springer.com/book/10.1007/978-3-319-32552-1](https://link.springer.com/book/10.1007/978-3-319-32552-1?page=4#toc:~:text=Download%20chapter%20PDF-,Social%20Robotics,-Cynthia%20Breazeal%2C%20Kerstin)
+- Social Robotics (Chapter 73), Springer Handbook of Robotics, by Maja J. Matarić and Brian Scassellati\\
+  [https://link.springer.com/book/10.1007/978-3-319-32552-1](https://link.springer.com/book/10.1007/978-3-319-32552-1?page=5#toc:~:text=Socially%20Assistive%20Robotics)
+
 
 
 ---
