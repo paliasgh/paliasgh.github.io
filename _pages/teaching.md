@@ -43,7 +43,7 @@ Informal gatherings of ASBLab member to discuss Human-Robot Interaction (HRI) fu
 
 # 2: Robot Functionality and Design
 
-**Meeting information: TBD**
+**Meeting information: Monday, Dec. 15th, 1 pm - 2:30 pm, Myhal**
 
 **Topics:**
 - Robot types
