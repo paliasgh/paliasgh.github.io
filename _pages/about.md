@@ -35,3 +35,5 @@ My research interests lie at the intersection of Human-Centred Robotics, Artific
 
 I completed my PhD degree in Electrical and Computer Engineering and my MASc degree in Systems Design Engineering at the [University of Waterloo](https://uwaterloo.ca) with [Dr. Kerstin Dautenhahn](https://uwaterloo.ca/electrical-computer-engineering/profile/kdautenh), [Dr. Chrystopher L. Nehaniv](https://uwaterloo.ca/systems-design-engineering/profile/cnehaniv), and [Dr. Moojan Ghafurian](https://uwaterloo.ca/systems-design-engineering/profile/mghafuri). At the University of Waterloo, I studied different aspects of the natural and interactive transfer of skills from humans to robots and the social learning of robots.
 
+Other than research, I enjoy road and gravel cycling around the town. Check out my cycling routes around [Waterloo, ON](https://ridewithgps.com/collections/8426313?privacy_code=nEfqvOWHvdWqwuV9h1Xdysou9sutlxuW), and [Markham, ON](https://ridewithgps.com/collections/8435831?privacy_code=weX0WZ7u6UjWn6HfQKo798I44nGjbdDv).
+
