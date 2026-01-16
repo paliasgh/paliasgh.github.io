@@ -31,7 +31,7 @@ latest_posts:
 
 I am a Postdoctoral Fellow in the [Department of Mechanical & Industrial Engineering](https://www.mie.utoronto.ca/) at the [University of Toronto (UofT)](https://www.utoronto.ca/). I am conducting my postdoctoral research in the [Autonomous Systems and Biomechatronics Laboratory (ASBLab)](http://asblab.mie.utoronto.ca/) with [Dr. Goldie Nejat](https://www.mie.utoronto.ca/faculty_staff/nejat/).
 
-My research interests lie at the intersection of Human-Centred Robotics, Artificial Intelligence (AI), and Human-Robot Interaction (HRI). I develop multifunctional and adaptive robots that learn how to effectively help various people with everyday tasks, by observing humans and/or interacting with them socially.
+My research interests lie at the intersection of Human-Centred Robotics, Artificial Intelligence (AI), and Human-Robot Interaction (HRI). My research contributes to the development of multifunctional and adaptive robots that learn how to effectively help various people with physical everyday tasks, by observing humans and/or interacting with them socially.
 
 I completed my PhD degree in Electrical and Computer Engineering and my MASc degree in Systems Design Engineering at the [University of Waterloo](https://uwaterloo.ca) with [Dr. Kerstin Dautenhahn](https://uwaterloo.ca/electrical-computer-engineering/profile/kdautenh), [Dr. Chrystopher L. Nehaniv](https://uwaterloo.ca/systems-design-engineering/profile/cnehaniv), and [Dr. Moojan Ghafurian](https://uwaterloo.ca/systems-design-engineering/profile/mghafuri). At the University of Waterloo, I studied different aspects of the natural and interactive transfer of skills from humans to robots and the social learning of robots.
 
