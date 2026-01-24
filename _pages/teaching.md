@@ -78,7 +78,7 @@ Informal gatherings of ASBLab member to discuss Human-Robot Interaction (HRI) fu
 
 # 3: Multi-Modal Interaction with Robots and Emotions
 
-**Meeting information: TBD**
+**Meeting information: Thursday, Jan. 22, 2:30 pm - 4 pm, HA411**
 
 **Topics:**
 - Spatial interaction: proxemics, group formation, social navigation
@@ -96,10 +96,18 @@ Informal gatherings of ASBLab member to discuss Human-Robot Interaction (HRI) fu
 - **HRI Textbook Chapter 9: Emotions**\\
   [https://www.human-robot-interaction.org/download/190/?tmstv=1761321526](https://www.human-robot-interaction.org/download/190/?tmstv=1761321526)
 
+---
+
+# 4: Guest Speaker: Mahsa Golchoubian
+
+**Meeting information: Thursday, Jan. 29, 2:30 pm - 4 pm, HA411**
+
+**Topic:**
+Human-aware Autonomous Vehicle Navigation in Pedestrian-rich Unstructured Environments
 
 ---
 
-# 4: HRI Research Methods and Paper Writing
+# 5: HRI Research Methods and Paper Writing
 
 **Meeting information: TBD**
 
