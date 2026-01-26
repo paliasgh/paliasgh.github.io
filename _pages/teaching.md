@@ -102,8 +102,11 @@ Informal gatherings of ASBLab member to discuss Human-Robot Interaction (HRI) fu
 
 **Meeting information: Thursday, Jan. 29, 2:30 pm - 4 pm, HA411**
 
-**Topic:**
+**Title:**
 Human-aware Autonomous Vehicle Navigation in Pedestrian-rich Unstructured Environments
+
+**Abstract:**
+Autonomous vehicles (AVs) hold great promise for improving safety and efficiency, yet operating in crowded, unstructured spaces such as airport terminals remains a major challenge. In these environments, AVs must navigate safely while also behaving in ways that meet human expectations of comfort and social norms. This talk introduces a framework for socially- and uncertainty-aware AV navigation. The presentation first highlights findings from a study on pedestrian perceptions of AV behaviour in shared spaces, which informed the design of the navigation approach. It then presents a decision-making algorithm that integrates deep reinforcement learning with data-driven pedestrian trajectory prediction. By modeling interaction effects and incorporating prediction uncertainty into the planning process, the algorithm achieves safer and more socially compliant navigation. Simulation results show that this framework effectively combines prediction, planning, and social awareness to enable AVs to operate as mobility aids in pedestrian-rich environments.
 
 ---
 
